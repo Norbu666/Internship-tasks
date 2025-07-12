@@ -51,3 +51,5 @@ pip install pillow numpy
 ## Run any script
 python <script_name>.py
 
+NOTE: Some programs might ask for administrative permission.
+
